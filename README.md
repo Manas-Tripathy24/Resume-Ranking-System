@@ -38,5 +38,5 @@ The job description and resume text are vectorized using TfidfVectorizer
 Cosine similarity measures how closely a resume matches the job description
 
 ## Author
-Developed by Manas Ranjan Tripathy
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tripathymanas)
+- Developed by Manas Ranjan Tripathy
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tripathymanas)
