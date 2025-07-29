@@ -12,6 +12,7 @@ A smart web-based application that ranks resumes based on their similarity to a 
 
 ## Tech Stack
 
+- HTML, CSS, Bootstrap, JavaScript (For frontend UI)
 - Python
 - Flask (for the web server)
 - spaCy (for NLP)
